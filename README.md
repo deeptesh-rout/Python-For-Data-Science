@@ -1,5 +1,4 @@
-# Learn Python - Python for Data Science 2024 [Full Course for Beginners]
-![Youtube Thumbnail Cover - Creative Podcast - Cover Thumnail](https://github.com/TatevKaren/Python-For-Data-Science/assets/76843403/9508e740-d8cb-4bd0-a807-9015f5a57c66)
+
 
 ## Python Scripts 
 - <a href = "https://github.com/TatevKaren/Python-For-Data-Science/blob/main/Python%20Scripts/Demo%201.%20Data%20Types%20%26%20Variable.py"> Demo 1. Data Types & Variable.py </a>
